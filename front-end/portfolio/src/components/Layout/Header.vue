@@ -9,15 +9,18 @@
         <v-spacer></v-spacer>
         <v-toolbar-items>
         <v-btn text>
+          <v-icon >mdi-home-outline</v-icon>
           Home
         </v-btn>
 
         <v-btn text>
-          Contact
+          <v-icon >mdi-contacts</v-icon>
+         Contact 
         </v-btn>
 
         <v-btn text>
-          About
+          <v-icon >mdi-information-variant</v-icon>
+           About 
         </v-btn>
         </v-toolbar-items>
       </v-toolbar>
